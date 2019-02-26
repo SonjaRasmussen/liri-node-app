@@ -4,7 +4,7 @@ https://sonjarasmussen.github.io/liri-node-app/.
 
 LIRI is a command line application that takes in user commands and will return data from three API's.  User has the ability to search spotify for songs, Bands in town for concerts and OMDB for movies.
 
-###The Spotify Search will return 
+### The Spotify Search will return 
 * Artist(s)
 * The song's name
 * A preview link of the song form Spotify
@@ -16,7 +16,7 @@ Here is a result shown in the terminal when a search was made for Breathe.
 
 [![asciicast](https://asciinema.org/a/fYU5i9vMqGq5ZmV4Fss1Jjm5e.svg)](https://asciinema.org/a/fYU5i9vMqGq5ZmV4Fss1Jjm5e)
 
-###The OMDB Search will return
+### The OMDB Search will return
 * Title of the movie.
 * Year the movie came out.
 * IMDB Rating of the movie.
@@ -30,14 +30,20 @@ Here is a result shown in the terminal when a search was made for Zoolander.
 
 ![Zoolander Results](/assets/images/OMDB.png)
 
-###The Bands in town Search will return
+[![asciicast](https://asciinema.org/a/z0szQW1I1Y9krwQaXwOuUnVda.svg)](https://asciinema.org/a/z0szQW1I1Y9krwQaXwOuUnVda)
+
+### The Bands in town Search will return
 * Name of the venue
 * Venue location
 * Date of the Event
 
 ![Concert Results](/assets/images/Concert.png)
 
+[![asciicast](https://asciinema.org/a/DT6J5mVz8DWKX4RwjQpLNq3Oo.svg)](https://asciinema.org/a/DT6J5mVz8DWKX4RwjQpLNq3Oo)
 
+### Do What It Says
+
+[![asciicast](https://asciinema.org/a/asjnZK7UtKcAIAUaaVmmNRK11.svg)](https://asciinema.org/a/asjnZK7UtKcAIAUaaVmmNRK11)
 
 
 **Developer**: Sonja Rasmussen
