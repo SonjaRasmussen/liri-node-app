@@ -14,6 +14,8 @@ Here is a result shown in the terminal when a search was made for Breathe.
 
 ![Spotify Results](/assets/images/Spotify.png)
 
+[![asciicast](https://asciinema.org/a/fYU5i9vMqGq5ZmV4Fss1Jjm5e.svg)](https://asciinema.org/a/fYU5i9vMqGq5ZmV4Fss1Jjm5e)
+
 ###The OMDB Search will return
 * Title of the movie.
 * Year the movie came out.
